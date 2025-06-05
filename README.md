@@ -37,10 +37,3 @@
 * El proyecto debe ser factorizable y escalable
 * No esta definido con que proveedores de agentes se trabajara
 
-## Alcance del proyecto:
-### Incluye:
-### Excluye:
-
-## Definicion de logro:
-### Item 1:
-### Item 2:
