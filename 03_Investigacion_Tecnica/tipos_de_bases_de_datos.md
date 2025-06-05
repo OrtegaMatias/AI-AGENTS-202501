@@ -1,0 +1,3 @@
+# Tipos De Bases De Datos
+
+Contenido inicial aquí...

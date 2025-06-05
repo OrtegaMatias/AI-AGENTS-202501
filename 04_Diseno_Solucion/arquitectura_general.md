@@ -1,0 +1,3 @@
+# Arquitectura General
+
+Contenido inicial aquí...
