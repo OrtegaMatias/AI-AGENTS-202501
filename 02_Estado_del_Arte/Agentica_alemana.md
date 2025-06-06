@@ -2,7 +2,7 @@
 
 ## 🏥 Contexto Clínico
 - **Área usuaria / unidad clínica o de soporte:** 
-- **Problema o necesidad abordada:** 
+- **Problema o necesidad abordada:** Centralizar las fuentes de la clinica mediante una solución agil que permita consultar de forma eficiente
 - **Objetivo del agente IA:** Centralizar las fuentes de la clinica mediante una solución agil que permita consultar de forma eficiente documentacion de interes para el area de TI.
 
 ## 🤖 Descripción de la Solución
