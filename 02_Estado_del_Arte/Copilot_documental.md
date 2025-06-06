@@ -1,28 +1,28 @@
 # Copilot Documental | Por: Marco Gonzales
 
 ## 🏥 Contexto Clínico
-- **Área usuaria / unidad clínica o de soporte:** 
-- **Problema o necesidad abordada:** 
-- **Objetivo del agente IA:**
+- **Área usuaria:** Equipo de desarrollo TI
+- **Problema o necesidad abordada:** Facilitar y unificar las fuentes de conocimiento de TI
+- **Objetivo del agente IA:** Centralizar las fuentes de la clinica mediante una solución agil que permita consultar de forma eficiente documentacion de interes para el area de TI.
 
 ## 🤖 Descripción de la Solución
-- **Nombre de la solución / sistema:** 
-- **Tipo de agente IA:** (ej: asistente conversacional, agente autónomo, RAG, NLP especializado, etc.)
-- **Entradas del sistema:** (tipos de datos, formatos, fuentes)
-- **Salidas esperadas:** (respuestas, reportes, acciones, etc.)
-- **Tecnologías utilizadas:** (modelos base, frameworks, lenguajes, etc.)
-- **Interfaz con el usuario:** (chatbot, API, sistema embebido, etc.)
+- **Nombre de la solución:** Copilot Documental
+- **Tipo de agente IA:** Asistente conversacional con RAG 
+- **Entradas del sistema:** Fichas de sistemas, ADRs e información de Excelencia Operacional TI
+- **Salidas esperadas:** Por definir...
+- **Tecnologías utilizadas:** Agente de IA diseñado y ejecutado directamente en la suite de Microsoft Copilot Studio
+- **Interfaz con el usuario:** ChatBot desplegado en MS Teams
 
 ## 🧱 Arquitectura Técnica
-- **Integraciones con sistemas clínicos (HIS, RIS, LIS, etc):**
-- **Fuentes de datos utilizadas:** 
-- **Infraestructura:** (on-premise, cloud, híbrida. Indicar proveedor si aplica)
-- **Seguridad y privacidad:** (manejo de datos sensibles, anonimización, cumplimiento normativo)
+- **Integraciones con sistemas clínicos (HIS, RIS, LIS, etc):** N/A, Por definir...
+- **Fuentes de datos utilizadas:**  SharePoint
+- **Infraestructura:** Cloud a traves de la suite de Microsoft
+- **Seguridad y privacidad:** Acceso restringido debido a modalidad beta, ademas la información debia ser validada antes de entrar al sistema
 
 ## ⚙️ Entrenamiento y Personalización
-- **Origen del conocimiento (docs, fichas, historiales, etc):**
-- **Método de actualización del conocimiento:** (manual, automático, RAG, embeddings)
-- **Idioma y especialización médica:** (¿entiende terminología clínica?, ¿usa SNOMED, CIE10?)
+- **Origen del conocimiento (docs, fichas, historiales, etc):** Duda...
+- **Método de actualización del conocimiento:** Automatíco mediante lectura en SharePoint
+- **Idioma y especialización médica:** (¿entiende terminología clínica?, ¿usa SNOMED, CIE10?) Por definir...
 
 ## 📊 Métricas y Evaluación
 - **Métricas de desempeño:** (precisión, cobertura, tiempo de respuesta)
