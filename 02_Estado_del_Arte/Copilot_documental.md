@@ -25,21 +25,20 @@
 - **Idioma y especialización médica:** (¿entiende terminología clínica?, ¿usa SNOMED, CIE10?) Por definir...
 
 ## 📊 Métricas y Evaluación
-- **Métricas de desempeño:** (precisión, cobertura, tiempo de respuesta)
-- **Validación clínica realizada:** (usuarios testeando, pruebas piloto, validación con comité)
-- **Limitaciones actuales:**
+- **Métricas de desempeño:** Precision, versatilidad, tiempo de respuesta
+- **Validación clínica realizada:** Pruebas piloto
+- **Limitaciones actuales:** Modelo excesivamente rigido, limitado a responder en funcion de palabras claves
 
 ## 📅 Estado y Proyección
-- **Estado actual del proyecto:** (idea, desarrollo, piloto, en uso)
-- **Próximos pasos:**
-- **Participantes clave:** (nombre, rol, área)
-- **Proveedor / Partner (si aplica):** 
+- **Estado actual del proyecto:** Piloto
+- **Próximos pasos:** Rediseñar e implementar nuevo piloto
+- **Participantes clave:** Marco Guzman - Jefe de Proyecto
+- **Proveedor / Partner (si aplica):** N/A
 
 ## 🧩 Compatibilidad con el Ecosistema CAS
-- **¿Alineado con la arquitectura TI de Clínica Alemana?:**
-- **¿Escalable a otras áreas?:**
-- **¿Cumple con políticas de TI institucionales?:**
+- **¿Alineado con la arquitectura TI de Clínica Alemana?:** Por definir...
+- **¿Escalable a otras áreas?:** Si
+- **¿Cumple con políticas de TI institucionales?:** Por definir...
 
 ## 📝 Observaciones y Recomendaciones
-- 
-
+- Considerar la posibilidad de ampliar el piloto a un modelo multi agente con orquestador
