@@ -1,7 +1,7 @@
 # Agentica alemana | Por: Alejandro Mauro
 
 ## 🏥 Contexto Clínico
-- **Área usuaria / unidad clínica o de soporte:** 
+- **Área usuaria / unidad clínica o de soporte:**  Equipo de desarrollo TI
 - **Problema o necesidad abordada:** Facilitar y unificar las fuentes de conocimiento de TI
 - **Objetivo del agente IA:** Centralizar las fuentes de la clinica mediante una solución agil que permita consultar de forma eficiente documentacion de interes para el area de TI.
 
