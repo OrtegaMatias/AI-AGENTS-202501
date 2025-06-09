@@ -6,39 +6,39 @@
 - **Objetivo del agente IA:** Centralizar las fuentes de la clinica mediante una solución agil que permita consultar de forma eficiente documentacion de interes para el area de TI.
 
 ## 🤖 Descripción de la Solución
-- **Nombre de la solución / sistema:** 
-- **Tipo de agente IA:** (ej: asistente conversacional, agente autónomo, RAG, NLP especializado, etc.)
-- **Entradas del sistema:** (tipos de datos, formatos, fuentes)
-- **Salidas esperadas:** (respuestas, reportes, acciones, etc.)
-- **Tecnologías utilizadas:** (modelos base, frameworks, lenguajes, etc.)
-- **Interfaz con el usuario:** (chatbot, API, sistema embebido, etc.)
+- **Nombre de la solución / sistema:** Agentica Alemana
+- **Tipo de agente IA:** Sistema Multi Agente + BM25
+- **Entradas del sistema:** Datos clinicos, Ficha Clinica
+- **Salidas esperadas:** Respuesta personalizada segun el paciente y el tipo de información
+- **Tecnologías utilizadas:** ChatGPT 3.5 | Claude
+- **Interfaz con el usuario:** ChatBot desarrollado en ambiente de aplicación creada por la clinica
 
 ## 🧱 Arquitectura Técnica
-- **Integraciones con sistemas clínicos (HIS, RIS, LIS, etc):**
-- **Fuentes de datos utilizadas:** 
-- **Infraestructura:** (on-premise, cloud, híbrida. Indicar proveedor si aplica)
-- **Seguridad y privacidad:** (manejo de datos sensibles, anonimización, cumplimiento normativo)
+- **Integraciones con sistemas clínicos (HIS, RIS, LIS, etc):** N/A
+- **Fuentes de datos utilizadas:** Fichas clinicas
+- **Infraestructura:** Hibrido
+- **Seguridad y privacidad:** N/A
 
 ## ⚙️ Entrenamiento y Personalización
-- **Origen del conocimiento (docs, fichas, historiales, etc):**
-- **Método de actualización del conocimiento:** (manual, automático, RAG, embeddings)
-- **Idioma y especialización médica:** (¿entiende terminología clínica?, ¿usa SNOMED, CIE10?)
+- **Origen del conocimiento (docs, fichas, historiales, etc):** Fichas clinicas
+- **Método de actualización del conocimiento:** embeddings mediante BM25
+- **Idioma y especialización médica:** Tiene especialización en conceptos medicos
 
 ## 📊 Métricas y Evaluación
-- **Métricas de desempeño:** (precisión, cobertura, tiempo de respuesta)
-- **Validación clínica realizada:** (usuarios testeando, pruebas piloto, validación con comité)
-- **Limitaciones actuales:**
+- **Métricas de desempeño:** N/A
+- **Validación clínica realizada:** Pilotos y demos en el area de desarrollo
+- **Limitaciones actuales:** Faltan herramientas para ampliar sus capacidades
 
 ## 📅 Estado y Proyección
-- **Estado actual del proyecto:** (idea, desarrollo, piloto, en uso)
-- **Próximos pasos:**
-- **Participantes clave:** (nombre, rol, área)
-- **Proveedor / Partner (si aplica):** 
+- **Estado actual del proyecto:** Piloto
+- **Próximos pasos:** Ampliarlo como solucion de creacion de agentes en todo CAS
+- **Participantes clave:** Alejandro Mauro
+- **Proveedor / Partner (si aplica):** n/a
 
 ## 🧩 Compatibilidad con el Ecosistema CAS
-- **¿Alineado con la arquitectura TI de Clínica Alemana?:**
-- **¿Escalable a otras áreas?:**
-- **¿Cumple con políticas de TI institucionales?:**
+- **¿Alineado con la arquitectura TI de Clínica Alemana?:** n/a
+- **¿Escalable a otras áreas?:** n/a
+- **¿Cumple con políticas de TI institucionales?:** n/a
 
 ## 📝 Observaciones y Recomendaciones
-- 
+- Este sistema es una creacion completa del backend para la creación de sistemas de agentes o multiagentes, aterrizandolo a un aplicativo con frontend desarrollado para crear una experiencia fluida en la formulacion, creacion e implementacion de agentes IA en toda la CAS segun sean las necesidades.
