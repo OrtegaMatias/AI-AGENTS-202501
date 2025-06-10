@@ -71,8 +71,16 @@ Terminología clínica codificada, multilingüe y de alcance global que se utili
 Optical Character Recognition | Tecnología que permite convertir texto de imágenes en texto digitalizable y editable.
 
 ### RAG:
-
+Retrieval Augmented Generation | Generación Aumentada por Recuperación, es una técnica de inteligencia artificial que mejora la precisión y relevancia de las respuestas generadas por modelos de lenguaje (LLM) al integrarlos con fuentes de información externas.
 
 ### APIRest:
+Interfaz de programación de aplicaciones que sigue los principios de la arquitectura Representational State Transfer.
+
+### Representational State Transfer: 
+Estilo arquitectónico para diseñar sistemas de software distribuidos, especialmente servicios web.
+
 ### Post-Mortem:
+
+
 ### LDAP:
+
