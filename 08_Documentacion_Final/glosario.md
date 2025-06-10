@@ -2,6 +2,7 @@
 
 
 ### ADRs:
+### Post-Mortem:
 
 
 ### CoE:
@@ -79,8 +80,8 @@ Interfaz de programación de aplicaciones que sigue los principios de la arquite
 ### Representational State Transfer: 
 Estilo arquitectónico para diseñar sistemas de software distribuidos, especialmente servicios web.
 
-### Post-Mortem:
-
-
 ### LDAP:
+Lightweight Directory Access Protocol | Protocolo de red que permite a las aplicaciones acceder y manipular información almacenada en un servidor de directorio, como nombres de usuario, contraseñas, información de contacto, etc.
 
+### Tenant: 
+Espacio o contenedor que Microsoft utiliza para alojar los servicios en línea de una organización.
