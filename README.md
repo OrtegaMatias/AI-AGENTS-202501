@@ -37,3 +37,6 @@
 * El proyecto debe ser factorizable y escalable
 * No esta definido con que proveedores de agentes se trabajara
 
+## Links dee informacion relevante:
+* https://www.elastic.co/es/what-is/retrieval-augmented-generation
+* https://www.elastic.co/es/blog/beyond-rag-basics
