@@ -41,16 +41,37 @@ Service Level Indicator | Métrica cuantitativa que mide la calidad de un servic
 Service Level Agreement | Acuerdo entre un proveedor de servicios y un cliente que define los términos y condiciones del servicio, incluyendo los niveles de rendimiento esperados, las métricas para medir el cumplimiento y las consecuencias de no alcanzar esos niveles.
 
 ### Error Budget:
+Concepto que se utiliza en el desarrollo y las operaciones de software para medir y gestionar el nivel aceptable de errores
+
 ### MTTD:
-### HICAPPS:
+Mean Time To Detect | Métrica que mide el tiempo promedio que tarda un sistema o una organización en detectar un incidente de seguridad o una falla
+
 ### A2A:
+Protocolo abierto, impulsado inicialmente por Google, diseñado para facilitar la colaboración directa entre agentes inteligentes
+
 ### MCP:
+Model Context Protocol | estándar abierto diseñado para facilitar la comunicación entre modelos de inteligencia artificial, como los grandes modelos de lenguaje, y aplicaciones externas, fuentes de datos y herramientas.
+
 ### ACP:
+Agent Communication Protocol | estándar abierto que facilita la comunicación entre agentes de inteligencia artificial, permitiendo que estos interactúen, intercambien información y se coordinen entre sí de manera estandarizada.
+
 ### FIPA-ACL:
+Foundation for Intelligent Physical Agents - Agent Communication Language |  Estándar para la comunicación entre agentes inteligentes
+
 ### CI/CD:
-### Post-Mortem:
-### SNOMED // SNOWMED? // SNOWSTORM?
+Continuous Integration/Continuous Delivery | Conjunto de prácticas y procesos de desarrollo de software que automatizan la construcción, prueba e implementación de código.
+
 ### BM25:
+Función de ranking utilizada en Recuperación de información para la asignación de relevancia a los documentos en un buscador
+
+### SNOMED
+Terminología clínica codificada, multilingüe y de alcance global que se utiliza para representar, comunicar y analizar información clínica de forma precisa y estructurada
+
 ### OCR:
+Optical Character Recognition | Tecnología que permite convertir texto de imágenes en texto digitalizable y editable.
+
 ### RAG:
+
+
 ### APIRest:
+### Post-Mortem:
