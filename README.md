@@ -40,3 +40,6 @@
 ## Links dee informacion relevante:
 * https://www.elastic.co/es/what-is/retrieval-augmented-generation
 * https://www.elastic.co/es/blog/beyond-rag-basics
+* https://www.elastic.co/es/virtual-events/beyond-rag-basics
+* https://www.elastic.co/es/blog/langchain-tutorial
+* https://google.github.io/adk-docs/tools/mcp-tools/
