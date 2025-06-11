@@ -7,3 +7,4 @@ SharePoint es la primera fuente de información que se quiere rescatar. Se debe 
 * Frecuencia de actividad
 * Numero de consultas por usuario
 * Tasa de valoración de la informacion
+### Idea 3: Limitaciones
