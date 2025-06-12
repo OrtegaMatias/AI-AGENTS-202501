@@ -43,3 +43,4 @@
 * https://www.elastic.co/es/virtual-events/beyond-rag-basics
 * https://www.elastic.co/es/blog/langchain-tutorial
 * https://google.github.io/adk-docs/tools/mcp-tools/
+* Pendiente: https://www.elastic.co/es/blog/langchain-tutorial
